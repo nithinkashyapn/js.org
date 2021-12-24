@@ -1352,7 +1352,7 @@ var cnames_active = {
   "jjlc": "k-yak.github.io/JJLC", // noCF? (don´t add this in a new PR)
   "jk": "joname1.github.io",
   "jl": "crusj.github.io",
-  "jobs": "alias.zeit.co", // noCF
+  "jobs": "cname.vercel-dns.com", // noCF
   "joe": "joeleeofficial.github.io/joe",
   "joelmathew": "Rec0iL99.github.io/joelmathew",
   "jogja": "jogjajs.github.io", // noCF
